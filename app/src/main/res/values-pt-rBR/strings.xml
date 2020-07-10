@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TestAplication</string>
+    <string name="title_home">POSTAGENS</string>
+    <string name="title_dashboard">ALBUNS</string>
+    <string name="title_notifications">TO-DOs</string>
+</resources>
